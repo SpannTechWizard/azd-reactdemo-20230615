@@ -20,7 +20,6 @@
                 "ms-azuretools.vscode-azurefunctions",
                 "ms-azuretools.vscode-bicep",
                 "ms-azuretools.vscode-docker",
-                "ms-azuretools.azure-dev",
                 "ms-vscode.js-debug",
                 "ms-vscode.vscode-node-azure-pack"
             ]
