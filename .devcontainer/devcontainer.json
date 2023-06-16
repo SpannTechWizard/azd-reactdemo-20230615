@@ -23,7 +23,9 @@
 				"ms-vscode.js-debug",
 				"ms-vscode.vscode-node-azure-pack",
 				"GitHub.copilot-nightly",
-				"msjsdiag.vscode-react-native"
+				"msjsdiag.vscode-react-native",
+				"GitHub.vscode-pull-request-github",
+				"GitHub.copilot-chat"
 			]
         }
     },
